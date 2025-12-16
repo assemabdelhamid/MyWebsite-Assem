@@ -49,6 +49,7 @@ The project focuses on clean UI, organized sections, responsive layout, and prac
 
 ## Project Structure
 
+```
 assem-website/
 │
 ├── css file/
@@ -62,6 +63,7 @@ assem-website/
 │   └── ... other images
 │
 └── index.html
+```
 
 ---
 
