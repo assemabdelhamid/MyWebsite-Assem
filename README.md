@@ -57,10 +57,9 @@ assem-website/
 │   └── normalize.css
 │
 ├── images/
-│   ├── gallery images
-│   ├── team images
-│   ├── articles images
-│   └── other assets
+│   ├── cat-01.jpg
+│   ├── gallery-01.png
+│   └── ... other images
 │
 └── index.html
 
